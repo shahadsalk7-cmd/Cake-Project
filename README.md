@@ -31,11 +31,4 @@ This project demonstrates the design and development of a responsive cake shop w
 - Implement shopping cart functionality  
 - Improve responsive behavior for mobile devices  
 
----
 
-## 📷 Screenshots
-(Add your screenshots here if you uploaded them inside an images folder)
-
-Example:
-![Home Page](images/screenshot1.png)
-![Shop Page](images/screenshot2.png)
