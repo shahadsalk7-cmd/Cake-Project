@@ -1,21 +1,41 @@
 # Cake Shop Website – Front-End Project
 
-Responsive cake shop website built using HTML and CSS to showcase bakery products in a structured and visually appealing layout.
+## 🚀 Live Demo
+👉 [View the Website Here](https://shahadsalk7-cmd.github.io/Cake-Project/)
 
-## Overview
-This project demonstrates the design of a clean and user-friendly cake shop website interface, focusing on layout structure, styling, and product presentation.
+Responsive cake shop website built using HTML and CSS to showcase bakery products in a clean, structured, and visually appealing layout.
 
-## Features
-- Product showcase section
-- Structured navigation layout
-- Clean UI design
-- Responsive page structure
+---
 
-## Technologies Used
-- HTML
-- CSS
+## 📌 Overview
+This project demonstrates the design and development of a responsive cake shop website interface, focusing on layout structure, styling, and product presentation.
 
-## Future Improvements
-- Add JavaScript interactivity
-- Implement shopping cart functionality
-- Improve responsive behavior for mobile devices
+---
+
+## ✨ Features
+- Product showcase section  
+- Structured navigation layout  
+- Clean and modern UI design  
+- Responsive page structure for different screen sizes  
+
+---
+
+## 🛠 Technologies Used
+- HTML  
+- CSS  
+
+---
+
+## 🔮 Future Improvements
+- Add JavaScript interactivity  
+- Implement shopping cart functionality  
+- Improve responsive behavior for mobile devices  
+
+---
+
+## 📷 Screenshots
+(Add your screenshots here if you uploaded them inside an images folder)
+
+Example:
+![Home Page](images/screenshot1.png)
+![Shop Page](images/screenshot2.png)
